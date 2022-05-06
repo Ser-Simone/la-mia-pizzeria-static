@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Nuova cartella\" />
-    <Folder Include="wwwroot\Nuova cartella\" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.4" />
   </ItemGroup>
 
 </Project>
